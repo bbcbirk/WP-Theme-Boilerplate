@@ -8,10 +8,10 @@ A full-featured WordPress theme by Birk Thestrup Blauner.
 ### Search and Replace the Following
 
 `[THEMENAME]` - Name of Theme  
-`[THEME_KEBAB]` - project-name (kebab lowercase)
-`[THEME_UNDERSCORED]` - project_name (underscored lowercase)
-`[THEME_CAMELCASED]` - projectName (camelCased)
-`[THEME_PASCALCASED]` - ProjectName (PascalCased)
+`[THEME_KEBAB]` - project-name (kebab lowercase)  
+`[THEME_UNDERSCORED]` - project_name (underscored lowercase)  
+`[THEME_CAMELCASED]` - projectName (camelCased)  
+`[THEME_PASCALCASED]` - ProjectName (PascalCased)  
 
 ### Composer
 
