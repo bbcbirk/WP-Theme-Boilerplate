@@ -22,9 +22,9 @@ Run `composer update`
 Enter the assets/src and run in the terminal'
 
 `npm install`  
-`npm run:start:dev`
+`npm run start:dev`
 
 When done run the following
 
-`npm run:build:prod:fix`
+`npm run build:prod:fix`
 
