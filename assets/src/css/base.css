@@ -45,7 +45,6 @@
 /**
  * Blocks
  */
-@import 'components/blocks/[THEME_UNDERSCORED]-cv.css';
 @import 'components/blocks/wp-block-cover.css';
 @import 'components/blocks/wp-block-gallery.css';
 @import 'components/blocks/wp-block-separator.css';
