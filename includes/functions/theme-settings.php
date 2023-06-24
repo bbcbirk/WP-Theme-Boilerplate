@@ -14,10 +14,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 class ThemeSettings {
 
-	public static $color_1_default = '#1a1a1a';
-	public static $color_2_default = '#edeeef';
-	public static $color_3_default = '#26262a';
-	public static $color_4_default = '#ffffff';
+	public static $color_1_default = '#1a1a1a'; //Primary
+	public static $color_2_default = '#edeeef'; //Secondary
+	public static $color_3_default = '#26262a'; //Contrast 1
+	public static $color_4_default = '#ffffff'; //Contrast 2
 
 	/**
 	 * @var object Instance of this class.

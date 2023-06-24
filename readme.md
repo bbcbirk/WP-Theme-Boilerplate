@@ -5,6 +5,10 @@ A full-featured WordPress theme by Birk Thestrup Blauner.
 
 ## How to
 
+In Theme folder run the following
+
+`git clone https://github.com/bbcbirk/WP-Theme-Boilerplate.git THEMENAME`
+
 ### Search and Replace the Following
 
 `[THEMENAME]` - Name of Theme  
