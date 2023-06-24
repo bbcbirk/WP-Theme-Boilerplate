@@ -9,7 +9,7 @@ In Theme folder run the following
 
 `git clone https://github.com/bbcbirk/WP-Theme-Boilerplate.git THEMENAME`  
 `cd .\THEMENAME\`  
-`rm -R .\.git\`  
+`rm -R -Force .\.git\`  
 
 ### Search and Replace the Following
 
