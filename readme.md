@@ -7,7 +7,9 @@ A full-featured WordPress theme by Birk Thestrup Blauner.
 
 In Theme folder run the following
 
-`git clone https://github.com/bbcbirk/WP-Theme-Boilerplate.git THEMENAME`
+`git clone https://github.com/bbcbirk/WP-Theme-Boilerplate.git THEMENAME`  
+`cd .\THEMENAME\`  
+`rm -R .\.git\`  
 
 ### Search and Replace the Following
 
